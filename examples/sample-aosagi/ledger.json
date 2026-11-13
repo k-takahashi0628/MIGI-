@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "locked": [],
+  "approved": [],
+  "rejected": [],
+  "pending": [
+    {"id": "PD-1", "item": "記事に実名（姓）を出してよいか", "ask": "採用担当に、森下さん本人の了承を取ってもらう", "owner": "採用担当", "status": "open", "date": "2026-11-11"}
+  ],
+  "rules": [
+    {"id": "RL-1", "avoid": "スタッフ", "use": "社員", "note": "この会社のふだんの呼び方（架空の例）", "source": "採用担当のメモ", "date": "2026-11-11"}
+  ],
+  "facts": [],
+  "confidential": [],
+  "decisions": [],
+  "proposals": []
+}

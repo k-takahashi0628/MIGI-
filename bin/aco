@@ -1,0 +1,3 @@
+#!/bin/sh
+# プラグインを有効にすると bin/ が PATH に入る。どのフォルダからでも `aco …` で検査スクリプトを呼べる。
+exec python3 "$(cd "$(dirname "$0")/.." && pwd)/scripts/aco" "$@"

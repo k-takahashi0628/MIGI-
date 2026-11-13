@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "id": "A",
+      "file": "A_オフィシャル記事の負け筋と構成設計.md",
+      "title": "オフィシャル記事の負け筋と構成設計",
+      "provided_date": "2026-11-11",
+      "source": "制作責任者の作業フォルダ（~/平田AI/prompts/オフィシャル記事の負け筋と構成設計.md）を複製。2026-11-11 に依頼文へ貼り付けられた資料A と同じ内容（貼り付けは見出し記号の落ちた表示版）であることを目視で照合した。",
+      "sha256": "95f6b805c7c2f3da6ee21af2041039e88a4262f7016c95c0d648e1a7ab338c1c",
+      "visibility": "internal",
+      "stored": "verbatim",
+      "note": "実在の案件名・人名・社内の数字を含むため internal。改変禁止（aco validate が sha256 で確かめる）。匿名化・分類したものは references/derived/A_classification.md と knowledge/failure-patterns/official-article.md。"
+    },
+    {
+      "id": "B",
+      "file": null,
+      "title": "Wikipedia:Signs of AI writing",
+      "source": "https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing",
+      "revision_note": "2026-11-10 21:39 (UTC) 版。2026-11-11 に依頼文へ貼り付けられた表示（前半が機械翻訳の日本語、後半が英語）から読んだ。",
+      "license": "CC BY-SA 4.0",
+      "visibility": "public",
+      "stored": "pointer-only",
+      "note": "原文は保存していない。理由：(1) 提供は機械翻訳まじりの貼り付けだけで、原文そのものではない (2) ページは頻繁に更新され、保存した版がすぐ古くなる (3) 全文を載せると CC BY-SA の継承条件がリポジトリの公開時に関わる。抽出と日本語への当てはめは references/derived/B_ai-writing-signs.md。原文が要るときは上の URL の該当版を開くか、raw wikitext（?action=raw）を本人の確認のうえ取得する。"
+    }
+  ]
+}

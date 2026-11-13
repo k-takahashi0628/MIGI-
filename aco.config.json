@@ -1,0 +1,5 @@
+{
+  "repo_visibility": "private",
+  "allow_project_data_in_git": false,
+  "pii_allowlist": ["noreply@anthropic.com", "example.com", "example.jp"]
+}

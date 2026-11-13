@@ -1,0 +1,33 @@
+{
+  "slug": "sample-aosagi",
+  "title": "（仮）製造課 班長インタビュー",
+  "client": {
+    "name": "株式会社アオサギ製麺（架空）",
+    "aliases": [
+      "アオサギ製麺"
+    ]
+  },
+  "people": [
+    {
+      "name": "森下",
+      "role": "製造課 班長",
+      "kind": "interviewee"
+    }
+  ],
+  "article_type": "employee-interview",
+  "medium": "note",
+  "visibility": "public-sample",
+  "decision_maker": "代表（架空）",
+  "coordinator": "採用担当（架空）",
+  "series": {
+    "name": "",
+    "part": "",
+    "previous": []
+  },
+  "interview_dates": [
+    "2026-10-20"
+  ],
+  "stage": "08_fact-check",
+  "deadline": "",
+  "created": "2026-11-11"
+}
