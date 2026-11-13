@@ -1,0 +1,17 @@
+{"version": "v1", "reviewer": "chief-editor", "date": "",
+ "axes": {
+  "originality":     {"label": "企画の独自性",       "score": null, "reason": "", "improve": ""},
+  "discovery":       {"label": "読者にとっての発見", "score": null, "reason": "", "improve": ""},
+  "distinctiveness": {"label": "企業・人物の固有性", "score": null, "reason": "", "improve": ""},
+  "concreteness":    {"label": "情報の具体性",       "score": null, "reason": "", "improve": ""},
+  "structure":       {"label": "構成の必然性",       "score": null, "reason": "", "improve": ""},
+  "naturalness":     {"label": "日本語の自然さ",     "score": null, "reason": "", "improve": ""},
+  "expression":      {"label": "表現の完成度",       "score": null, "reason": "", "improve": ""},
+  "accuracy":        {"label": "事実の正確性",       "score": null, "reason": "", "improve": ""},
+  "brand_fit":       {"label": "ブランドへの適合性", "score": null, "reason": "", "improve": ""},
+  "purpose":         {"label": "記事目的への貢献",   "score": null, "reason": "", "improve": ""}
+ },
+ "blockers": [
+  {"type": "fabricated-quote", "detail": "", "location": "", "resolved": false}
+ ],
+ "notes": ""}

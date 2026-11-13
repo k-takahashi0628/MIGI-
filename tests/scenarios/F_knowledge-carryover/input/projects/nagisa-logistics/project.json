@@ -1,0 +1,40 @@
+{
+  "slug": "nagisa-logistics",
+  "title": "止まらない倉庫（後編）",
+  "client": {
+    "name": "株式会社ナギサ物流（架空）",
+    "aliases": [
+      "ナギサ物流"
+    ]
+  },
+  "people": [
+    {
+      "name": "真鍋",
+      "role": "倉庫管理課 課長",
+      "kind": "interviewee"
+    },
+    {
+      "name": "代表",
+      "role": "代表取締役",
+      "kind": "decision_maker"
+    }
+  ],
+  "article_type": "employee-interview",
+  "medium": "note",
+  "visibility": "public-sample",
+  "decision_maker": "代表",
+  "coordinator": "広報担当",
+  "series": {
+    "name": "止まらない倉庫",
+    "part": "後編",
+    "previous": [
+      "sources/previous-article.md"
+    ]
+  },
+  "interview_dates": [
+    "2026-11-04"
+  ],
+  "stage": "05_draft",
+  "deadline": "",
+  "created": "2026-11-05"
+}

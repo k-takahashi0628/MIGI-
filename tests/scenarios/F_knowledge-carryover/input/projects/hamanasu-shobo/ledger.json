@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "locked": [
+    {
+      "id": "LK-1",
+      "text": "本は、読む人の手に渡って初めて本になる。",
+      "reason": "社長の言葉（テスト用・架空）",
+      "source": "",
+      "date": "2026-11-02"
+    }
+  ],
+  "approved": [],
+  "rejected": [
+    {
+      "id": "RJ-1",
+      "text": "お客様第一",
+      "reason": "どの会社でも言える",
+      "rejected_by": "社長",
+      "date": "2026-11-02"
+    }
+  ],
+  "pending": [],
+  "rules": [
+    {
+      "id": "RL-1",
+      "avoid": "メンバー",
+      "use": "スタッフ",
+      "note": "この会社の呼称",
+      "source": "",
+      "date": "2026-11-02"
+    },
+    {
+      "id": "RL-2",
+      "avoid": "WEB",
+      "use": "ウェブ",
+      "note": "この会社の表記",
+      "source": "",
+      "date": "2026-11-02"
+    }
+  ],
+  "facts": [],
+  "confidential": [],
+  "decisions": [],
+  "proposals": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "proposals": [
+    {
+      "id": "PL-001",
+      "rule": "章の見出しの頭に【】で番号を付ける",
+      "why": "テスト用（架空）。未承認なので使ってはいけない",
+      "how": "",
+      "scope": "global",
+      "origin": "テスト用（架空）",
+      "evidence": "",
+      "status": "proposed",
+      "date": "2026-11-11",
+      "reason": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "hamanasu-shobo",
+  "title": "本を届ける人たち",
+  "client": {
+    "name": "株式会社ハマナス書房（架空）",
+    "aliases": [
+      "ハマナス書房"
+    ]
+  },
+  "people": [
+    {
+      "name": "入江",
+      "role": "営業部",
+      "kind": "interviewee"
+    }
+  ],
+  "article_type": "employee-interview",
+  "medium": "自社サイト",
+  "visibility": "public-sample",
+  "decision_maker": "社長",
+  "coordinator": "総務",
+  "series": {
+    "name": "",
+    "part": "",
+    "previous": []
+  },
+  "interview_dates": [],
+  "stage": "05_draft",
+  "deadline": "",
+  "created": "2026-11-02"
+}
